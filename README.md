@@ -115,7 +115,10 @@ Customers were segmented into 4 profile groups based on service usage and tech a
 | Senior citizens | Simplified plans, dedicated support line, family bundling options |
 
 ---
+## Dashboard Preview
 
+![Churn Customers and Segments](images/1.png)
+![Risk and Impact Matrix](images/2.png)
 ## Files
 
 | File | Description |
