@@ -1,4 +1,4 @@
-# LuckyMobile | Communşcations Operator Chrun Report
+# LuckyMobile | Communications Operator Chrun Report
 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
